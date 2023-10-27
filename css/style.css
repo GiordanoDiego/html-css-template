@@ -1,0 +1,28 @@
+/* RESET RULE */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* GENERAL RULE */
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* HEADER RULE */
+
+/* MAIN RULE */
+
+/* FOOTER RULE */
+
+
+
+/* DEBUG */
+.debug .container {
+    background-color: beige;
+    border: 1px dashed red;
+}
