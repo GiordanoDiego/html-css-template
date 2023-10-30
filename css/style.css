@@ -1,4 +1,4 @@
-/* RESET RULE */
+/* -----------------RESET RULE----------------- */
 *{
     margin: 0;
     padding: 0;
@@ -6,22 +6,22 @@
 }
 
 
-/* GENERAL RULE */
+/* -----------------GENERAL RULE----------------- */
 .container{
     max-width: 1200px;
     margin: 0 auto;
     width: 100%;
 }
 
-/* HEADER RULE */
+/* -----------------HEADER RULE----------------- */
 
-/* MAIN RULE */
+/* -----------------MAIN RULE----------------- */
 
-/* FOOTER RULE */
+/* -----------------FOOTER RULE----------------- */
 
 
 
-/* DEBUG */
+/* -----------------DEBUG----------------- */
 .debug .container {
     background-color: beige;
     border: 1px dashed red;
