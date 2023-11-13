@@ -15,11 +15,34 @@
 
 /* -----------------HEADER RULE----------------- */
 
-/* -----------------MAIN RULE----------------- */
+/* -----------------MAIN RULE------------------- */
 
 /* -----------------FOOTER RULE----------------- */
 
 
+/* -----------------MEDIA QUERY----------------- */
+/* IN MOBILE FIRST */
+
+@media screen and (max-width: 576px) {
+
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 992px) {
+
+}
+
+/* IN DEKSTOP FIRST */
+@media screen and (max-width: 992px) {
+
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 576px) {
+
+}
 
 /* -----------------DEBUG----------------- */
 .debug .container {
