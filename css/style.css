@@ -5,19 +5,25 @@
     box-sizing: border-box;
 }
 
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 
 /* -----------------GENERAL RULE----------------- */
 .container{
-    max-width: 1200px;
+    max-width: 1170px;
     margin: 0 auto;
-    width: 100%;
 }
 
 /* -----------------HEADER RULE----------------- */
 
+
 /* -----------------MAIN RULE------------------- */
 
+
 /* -----------------FOOTER RULE----------------- */
+
 
 
 /* -----------------MEDIA QUERY----------------- */
