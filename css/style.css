@@ -1,20 +1,9 @@
 /* -----------------RESET RULE----------------- */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-html{
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 
 /* -----------------GENERAL RULE----------------- */
-.container{
-    max-width: 1170px;
-    margin: 0 auto;
-}
+
 
 /* -----------------HEADER RULE----------------- */
 
@@ -23,6 +12,7 @@ html{
 
 
 /* -----------------FOOTER RULE----------------- */
+
 
 
 
@@ -52,6 +42,5 @@ html{
 
 /* -----------------DEBUG----------------- */
 .debug .container {
-    background-color: beige;
     border: 1px dashed red;
 }
