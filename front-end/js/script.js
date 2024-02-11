@@ -16,11 +16,11 @@ const { createApp } = Vue;
 createApp({
     data() {
         return {
-            h1Content: 'Ora ho Vue qui?',
+            h1Content: 'Titolo pagina',
         };
     },
     methods: {
-        handleButtonClick() {
+        esempiofunzione() {
             console.log(this.faiQualcosa(3));
         },
         
